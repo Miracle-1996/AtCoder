@@ -60,7 +60,7 @@ signed main(int argc, char** argv)
 /* tips */
 /*
 	number of even: n / 2
-	sum - n / 2
+	res = sum - n / 2
 */
 
 /* editorial */
