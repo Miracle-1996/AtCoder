@@ -124,7 +124,7 @@ signed main(int argc, char** argv)
 
 /* editorial */
 /*
-	bipartiteness of trees + color 
+	bipartiteness of trees + color
 */
 
 /* question */
