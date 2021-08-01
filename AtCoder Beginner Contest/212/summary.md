@@ -12,4 +12,4 @@
 + type:priority_queue + partial_sum
 + diff:775
 + tips:
-    - priority_queue<ll, vector<ll>, greater<ll>> q;
+    - priority_queue<T, vector<T>, greater<T>> q;
