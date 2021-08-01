@@ -61,7 +61,7 @@ int solve(void)
 {
 	int res = INT_MAX;
 	sort(b + 1, b + m + 1);
-	b[0] = b[1];// <= a[k]情况下找不到,返回0的边界情况处理
+	b[0] = b[1];// <= a[k]情况下找不到,返回b[0]的边界情况处理
 	for (int k = 1; k <= n; ++k) {
 		// int val1 = search1(1, m, a[k]);
 		// int val2 = search2(1, m, a[k]);
